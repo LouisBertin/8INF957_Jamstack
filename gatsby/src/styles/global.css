@@ -1,0 +1,10 @@
+/**
+ * Header.
+ */
+header nav {
+    display: flex;
+    align-items: center;
+}
+header nav > a {
+    margin: 0.5em;
+}
