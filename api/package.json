@@ -1,5 +1,5 @@
 {
-  "name": "cms",
+  "name": "api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application.",
@@ -40,7 +40,7 @@
   ],
   "strapi": {
     "packageManager": "npm",
-    "uuid": "c0b221ea-c0b5-49b5-b034-3ddcc5080c88"
+    "uuid": "882936d4-3a01-453c-acc3-5988ce075707"
   },
   "engines": {
     "node": ">= 10.0.0",
